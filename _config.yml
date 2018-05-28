@@ -251,3 +251,5 @@ defaults:
       share: true
       related: true
       excerpt_separator: <!--more-->
+
+theme: jekyll-theme-minimal
