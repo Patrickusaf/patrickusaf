@@ -1,0 +1,10 @@
+# main links
+main:
+  - title: "Software Development"
+    url: /dev/
+  - title: "Psychology"
+    url: /psychology/
+  - title: "Motorcycles"
+    utl: /motor/
+  - title: "About"
+    url: /about/
