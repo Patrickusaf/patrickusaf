@@ -5,4 +5,11 @@ excerpt: "Dev"
 author_profile: false
 ---
 
-Dev
+{% include base_path %}
+{% assign author = site.author %}
+
+Software Development
+
+## Software Development
+
+Software Development
