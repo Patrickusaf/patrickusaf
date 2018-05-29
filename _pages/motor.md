@@ -10,9 +10,14 @@ author_profile: false
 
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
-{% for post in paginator.posts %}
-  {% include archive-single.html %}
+<ul>
+{% for post in site.posts %}
+  <li>
+    <a href="{% post.permalink %}">{% post.title %}</a>
+    <p>{{ post.excerpt }}</p>
+  </li>
 {% endfor %}
+</ul>
 
 {% include paginator.html %}
 
