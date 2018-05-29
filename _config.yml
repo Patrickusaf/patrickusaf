@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Patrick Svensson's Blog"
+title                    : "Patrickusaf"
 title_separator          : "-"
 name                     : &name "Patrick Svensson"
 description              : &description "Patrick's blog about psychology, coding, motorcycles and stuff."
@@ -80,14 +80,14 @@ author:
   name             : "Patrick Svensson"
   avatar           : "images/bio-photo.jpg"
   bio              : "Psychologist, Software Development Lead & Biker"
-  location         : "El Puerto de Santa María, Cádiz (Spain)"
-  email            :
+  location         : "Cádiz, Spain"
+  email            : "Patrick_usaf@hotmail.com"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : Patrickusaf
   foursquare       :
   github           : patrickusaf
   google_plus      :
@@ -98,7 +98,7 @@ author:
   pinterest        :
   soundcloud       :
   stackoverflow    : 
-  steam            :
+  steam            : Patrick_usaf
   tumblr           :
   twitter          : patrickusaf
   vine             :
