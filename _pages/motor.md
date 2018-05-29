@@ -2,7 +2,7 @@
 layout: archive
 permalink: /motor/
 title: "Motorcycles"
-excerpt: "Motorcycles"
+excerpt: "Motor"
 author_profile: false
 ---
 
