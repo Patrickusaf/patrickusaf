@@ -1,4 +1,3 @@
-
 ---
 title: 'Post testing'
 header:
@@ -24,6 +23,7 @@ gallery_interface:
   - url: /images/posts/juno/screenshot_v_09.png
     image_path: /images/posts/juno/screenshot_v_09.png
 ---
+
 {% include toc title="Contents" icon="none" %}
 {% include base_path %}
 
