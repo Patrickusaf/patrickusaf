@@ -5,8 +5,8 @@ header:
   overlay_filter: 0.25
 excerpt: "Here is a text example"
 tags:
-- Dev
-- Motor
+- dev
+- motor
 crosspost_to_medium: false
 date: 2018-05-28
 gallery_interface:
