@@ -1,9 +1,8 @@
 ---
 permalink: /dev/
-title: "Software Development"
-excerpt: "Coding & Software Development"
+title: "dev"
+excerpt: "Dev"
 author_profile: false
 ---
 
-{% include base_path %}
-{% assign author = site.author %}
+Dev
