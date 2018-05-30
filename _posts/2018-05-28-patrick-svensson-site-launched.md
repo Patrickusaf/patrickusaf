@@ -27,4 +27,4 @@ gallery_interface:
 {% include toc title="Contents" icon="none" %}
 {% include base_path %}
 
-<span style="font-size:larger;">W</span>ell. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
+<span style="font-size:7;bold:true">W</span>ell. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
