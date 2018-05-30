@@ -10,9 +10,7 @@ author_profile: false
     
 <!-- Start of Free Policy -->
 # Privacy Policy Notice
-**The Policy**: This privacy policy notice is for this website; [<a href="http://www.domain.co.uk" title="Domain Title" target="_blank">www.domain.co.uk</a>] and served by [Business name &amp; full registered address] and governs the privacy of those who use it. The purpose of this policy is to explain to you how we control, process, handle and protect your  personal information while browsing or using this website, including your rights under current laws and regulations. If you do not agree to the following policy you may wish to cease viewing / using this website.
-                <h1>Privacy Policy Notice</h1>
-                <p><strong>The policy:</strong> This privacy policy notice is for this website; [<a href="http://www.domain.co.uk" title="Domain Title" target="_blank">www.domain.co.uk</a>] and served by [Business name &amp; full registered address] and governs the privacy of those who use it. The purpose of this policy is to explain to you how we control, process, handle and protect your  personal information while browsing or using this website, including your rights under current laws and regulations. If you do not agree to the following policy you may wish to cease viewing / using this website.</p>
+<p><strong>The policy:</strong> This privacy policy notice is for this website; [<a href="http://www.domain.co.uk" title="Domain Title" target="_blank">www.domain.co.uk</a>] and served by [Business name &amp; full registered address] and governs the privacy of those who use it. The purpose of this policy is to explain to you how we control, process, handle and protect your  personal information while browsing or using this website, including your rights under current laws and regulations. If you do not agree to the following policy you may wish to cease viewing / using this website.</p>
             <p>Policy key definitions:</p>
                 <ul>
                   <li>"I", "our", "us", or "we" refer to the business, [Business name &amp; other trading names].</li>
