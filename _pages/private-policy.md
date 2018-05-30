@@ -8,9 +8,7 @@ author_profile: false
 {% include base_path %}
 {% assign author = site.author %}
     
-    <html>
-      <body>
-                <!-- Start of Free Policy -->
+<!-- Start of Free Policy -->
                 <h1>Privacy Policy Notice</h1>
                 <p><strong>The policy:</strong> This privacy policy notice is for this website; [<a href="http://www.domain.co.uk" title="Domain Title" target="_blank">www.domain.co.uk</a>] and served by [Business name &amp; full registered address] and governs the privacy of those who use it. The purpose of this policy is to explain to you how we control, process, handle and protect your  personal information while browsing or using this website, including your rights under current laws and regulations. If you do not agree to the following policy you may wish to cease viewing / using this website.</p>
             <p>Policy key definitions:</p>
@@ -163,5 +161,3 @@ author_profile: false
                 <p>Privacy Notice Policy Base: v.4.0 May 2018 - Made available without liability by Jamie King, <a href="http://www.jamieking.co.uk/services/web/website-management.html" target="_blank" title="Website Management Services">Website management services</a>.</p>
                 <hr>
                 <p>[End of Privacy Policy Notice Template]</p>
-			</body>
-      </html>
