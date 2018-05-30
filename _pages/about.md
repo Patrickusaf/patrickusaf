@@ -16,6 +16,10 @@ My commerical experience dates back to 2013. I have worked in Germany and in Spa
 
 This is a blog about things I happen to work with. Mainly it's developing apps and frameworks, psychology and other related stuff.
 
+## Private Policy
+
+Due to the recent GDPR Compliance I have created this [post](http://patrickusaf.com/private-policy{{ #private-policy }}){:target="_blank"}.
+
 ## Links
 
 If you are interested in more things that I do, you may want to check out my [GitHub profile](https://github.com/{{ author.github }}){:target="_blank"}.
