@@ -1,7 +1,6 @@
 ---
 permalink: /private-policy/
 title: "Private Policy"
-excerpt: "Private Policy"
 author_profile: false
 ---
 
@@ -9,6 +8,7 @@ author_profile: false
 {% assign author = site.author %}
     
 <!-- Start of Free Policy -->
+# Private Policy and GDPR Compliance
 **The policy:** This privacy policy notice is for this website; [<a href="http://www.domain.co.uk" title="Domain Title" target="_blank">www.domain.co.uk</a>] and served by [Business name &amp; full registered address] and governs the privacy of those who use it. The purpose of this policy is to explain to you how we control, process, handle and protect your  personal information while browsing or using this website, including your rights under current laws and regulations. If you do not agree to the following policy you may wish to cease viewing / using this website.</p>
 <p>Policy key definitions:</p>
                 <ul>
