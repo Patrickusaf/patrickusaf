@@ -1,4 +1,14 @@
-		<html>
+---
+permalink: /private-policy/
+title: "Private Policy"
+excerpt: "Private Policy"
+author_profile: false
+---
+
+{% include base_path %}
+{% assign author = site.author %}
+    
+    <html>
       <body>
                 <!-- Start of Free Policy -->
                 <h1>Privacy Policy Notice</h1>
