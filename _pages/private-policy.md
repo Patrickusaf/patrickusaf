@@ -9,7 +9,7 @@ author_profile: false
     
 <!-- Start of Free Policy -->
 ### The policy:
-This privacy policy notice is for this website [patrickusaf.com] (http://patrickusaf.com) and served by Patrick Svensson. The purpose of this policy is to explain to you how we control, process, handle and protect your  personal information while browsing or using this website, including your rights under current laws and regulations. If you do not agree to the following policy you may wish to cease viewing / using this website.
+This privacy policy notice is for this website <a href="http://patrickusaf.com" target="_blank" rel="nofollow">patrickusaf.com</a> and served by Patrick Svensson. The purpose of this policy is to explain to you how we control, process, handle and protect your  personal information while browsing or using this website, including your rights under current laws and regulations. If you do not agree to the following policy you may wish to cease viewing / using this website.
 
 ### Policy key definitions:
 
@@ -109,7 +109,7 @@ Under the GDPR your rights are as follows. You can read more about <a href="http
 * the right to object; and
 * the right not to be subject to automated decision-making including profiling.
 
-You also have the right to complain to the [AEPD] (https://www.aepd.es/) if you feel there is a problem with the way we are handling your data.<br>
+You also have the right to complain to the <a href="https://www.aepd.es" target="_blank">AEPD</a> if you feel there is a problem with the way we are handling your data.<br>
 We handle subject access requests in accordance with the GDPR.
 
 ## Internet cookies
