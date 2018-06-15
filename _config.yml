@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Patrick Svensson's Blog"
+title                    : "Patrickusaf"
 title_separator          : "-"
 name                     : &name "Patrick Svensson"
 description              : &description "Patrick's blog about psychology, coding, motorcycles and stuff."
@@ -20,7 +20,7 @@ words_per_minute         : 200
 comments:
   provider               : "disqus"
   disqus:
-    shortname            : "patrickusaf"
+    shortname            : "patrickusaf-com"
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -79,26 +79,26 @@ analytics:
 author:
   name             : "Patrick Svensson"
   avatar           : "images/bio-photo.jpg"
-  bio              : "Psychologist, Software Development Lead & Biker"
-  location         : "El Puerto de Santa María, Cádiz (Spain)"
-  email            :
+  bio              : "Psychologist, Software Developer & Biker"
+  location         : "Cádiz, Spain"
+  email            : "Patrick_usaf@hotmail.com"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : Patrickusaf
   foursquare       :
   github           : patrickusaf
-  google_plus      :
+  google_plus      : PatrickSvensson
   keybase          :
   instagram        : patrickusaf
   lastfm           :
-  linkedin         : patrickusaf
+  linkedin         : patrick-svensson-2740b248
   pinterest        :
   soundcloud       :
   stackoverflow    : 
-  steam            :
+  steam            : patrickusaf
   tumblr           :
   twitter          : patrickusaf
   vine             :

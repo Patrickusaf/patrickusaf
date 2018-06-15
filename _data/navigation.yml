@@ -3,8 +3,8 @@ main:
   - title: "Software Development"
     url: /dev/
   - title: "Psychology"
-    url: /psychology/
+    url: /psy/
   - title: "Motorcycles"
-    utl: /motor/
+    url: /motor/
   - title: "About"
     url: /about/

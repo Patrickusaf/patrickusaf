@@ -8,13 +8,17 @@ author_profile: false
 {% include base_path %}
 {% assign author = site.author %}
 
-Hey – I'm Patrick Svensson, a **psychologist**, **software development** and **motorbikes** lover. I created this space to post about Psychology, coding or different stuf. I also love american football and good designs.
+Hey – I'm Patrick Svensson, a **psychologist**, **software developer** and **motorcycles** lover. I created this space to post about Psychology, coding or different stuff. I also love american football and good designs.
 
 My commerical experience dates back to 2013. I have worked in Germany and in Spain as a Software Development and currently I am developing my Psychology studies.
 
 ## About the site
 
 This is a blog about things I happen to work with. Mainly it's developing apps and frameworks, psychology and other related stuff.
+
+## Private Policy
+
+Due to the recent GDPR Compliance I have created this [post](http://patrickusaf.com/private-policy{{ #private-policy }}){:target="_blank"}.
 
 ## Links
 
