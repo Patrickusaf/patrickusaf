@@ -1,6 +1,6 @@
 ---
 permalink: /private-policy/
-title: "Private Policy"
+title: "Private Policy and GDPR Compliance"
 author_profile: false
 ---
 
@@ -8,7 +8,6 @@ author_profile: false
 {% assign author = site.author %}
     
 <!-- Start of Free Policy -->
-# Private Policy and GDPR Compliance
 ### The policy:
 This privacy policy notice is for this website [patrickusaf.com] (http://patrickusaf.com) and served by Patrick Svensson. The purpose of this policy is to explain to you how we control, process, handle and protect your  personal information while browsing or using this website, including your rights under current laws and regulations. If you do not agree to the following policy you may wish to cease viewing / using this website.
 
