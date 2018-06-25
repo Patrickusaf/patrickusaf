@@ -19,9 +19,9 @@ gallery_interface:
     image_path: images/posts/motorcycle-routes/2018_06_23-4.jpg
   - url: images/posts/motorcycle-routes/2018_06_23-5.jpg
     image_path: images/posts/motorcycle-routes/2018_06_23-5.jpg
-  - url: images/posts/motorcycle-routes/2018_06_23-6.jpg
+  - url: /images/posts/motorcycle-routes/2018_06_23-6.jpg
     image_path: images/posts/motorcycle-routes/2018_06_23-6.jpg
- ---
+---
 
 {% include toc title="Contents" icon="none" %}
 {% include base_path %}
