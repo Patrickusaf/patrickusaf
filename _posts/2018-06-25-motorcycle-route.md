@@ -1,7 +1,7 @@
 ---
 title: 'Motorcycle Route: Embalse de Los Hurones & Puerto Galiz'
 header:
-  overlay_image: images/posts/2018-06-25-motorcycle-route/2018_06_23-3.jpg
+  overlay_image: images/posts/motorcycle-routes/2018_06_23-3.jpg
   overlay_filter: 0.25
 excerpt: "Motorcycle Route: Embalse de Los Hurones & Puerto Galiz"
 tags:
@@ -9,18 +9,18 @@ tags:
 crosspost_to_medium: false
 date: 2018-06-25
 gallery_interface:
-  - url: images/posts/2018-06-25-motorcycle-route/2018_06_23-1.jpg
-    image_path: images/posts/2018-06-25-motorcycle-route/2018_06_23-1.jpg
-  - url: images/posts/2018-06-25-motorcycle-route/2018_06_23-2.jpg
-    image_path: images/posts/2018-06-25-motorcycle-route/2018_06_23-2.jpg
-    - url: images/posts/2018-06-25-motorcycle-route/2018_06_23-3.jpg
-    image_path: images/posts/2018-06-25-motorcycle-route/2018_06_23-3.jpg
-    - url: images/posts/2018-06-25-motorcycle-route/2018_06_23-4.jpg
-    image_path: images/posts/2018-06-25-motorcycle-route/2018_06_23-4.jpg
-    - url: images/posts/2018-06-25-motorcycle-route/2018_06_23-5.jpg
-    image_path: images/posts/2018-06-25-motorcycle-route/2018_06_23-5.jpg
-    - url: images/posts/2018-06-25-motorcycle-route/2018_06_23-6.jpg
-    image_path: images/posts/2018-06-25-motorcycle-route/2018_06_23-6.jpg
+  - url: images/posts/motorcycle-routes/2018_06_23-1.jpg
+    image_path: images/posts/motorcycle-routes/2018_06_23-1.jpg
+  - url: images/posts/motorcycle-routes/2018_06_23-2.jpg
+    image_path: images/posts/motorcycle-routes/2018_06_23-2.jpg
+    - url: images/posts/motorcycle-routes/2018_06_23-3.jpg
+    image_path: images/posts/motorcycle-routes/2018_06_23-3.jpg
+    - url: images/posts/motorcycle-routes/2018_06_23-4.jpg
+    image_path: images/posts/motorcycle-routes/2018_06_23-4.jpg
+    - url: images/posts/motorcycle-routes/2018_06_23-5.jpg
+    image_path: images/posts/motorcycle-routes/2018_06_23-5.jpg
+    - url: images/posts/motorcycle-routes/2018_06_23-6.jpg
+    image_path: images/posts/motorcycle-routes/2018_06_23-6.jpg
 ---
 
 {% include toc title="Contents" icon="none" %}
