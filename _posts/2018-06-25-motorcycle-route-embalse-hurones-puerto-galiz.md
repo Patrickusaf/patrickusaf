@@ -25,11 +25,19 @@ hurones-puerto-galiz:
 
 {% include toc title="Contents" icon="none" %}
 
-# Notes
+# Introduction
 
 First post about the routes I make with my 'little black girl'.
 For all those who are interested in locations I will try to link the names with webpages, so you can follow websites while you are reading this post.
 
-This one was about drive across San José del Valle  Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
+This one was about drive across San José del Valle.
+
+# Planning the route
+
+Actually we didn't know where we rode that day but we just began our journey as always —meeting up in Bornos/Algodonales—. Having a breakfast in Venta Salas we discussed where to go and finally we set that our final stop would be Puerto de Gáliz.
+
+So this was our day route.
+
+# Gallery
 
 {% include gallery id="hurones-puerto-galiz" %}
