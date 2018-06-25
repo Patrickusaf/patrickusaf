@@ -24,7 +24,6 @@ hurones-puerto-galiz:
 ---
 
 {% include toc title="Contents" icon="none" %}
-{% include base_path %}
 
 First post about the routes I make with my 'little black girl'.
 For all those who are interested in locations I will try to link the names with webpages, so you can follow websites while you are reading this post.
