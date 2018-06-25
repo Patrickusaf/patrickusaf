@@ -28,7 +28,7 @@ hurones-puerto-galiz:
 # Introduction
 
 First post about the routes I make with my 'little black girl'.
-For all those who are interested in locations I will try to link the names with webpages, so you can follow websites while you are reading this post.
+For all those who are interested in locations I will try to link the names to webpage references, so you can follow websites while you are reading this post.
 
 This one was about drive across San José del Valle until Puerto de Gáliz.
 
