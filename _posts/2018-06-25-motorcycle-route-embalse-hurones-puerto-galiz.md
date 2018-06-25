@@ -1,9 +1,9 @@
 ---
-title: 'Motorcycle Route: Embalse de Los Hurones & Puerto Galiz'
+title: 'Motorcycle Route: Embalse de Los Hurones & Puerto de Gáliz'
 header:
   overlay_image: images/posts/motorcycle-routes/2018_06_23-3.jpg
   overlay_filter: 0.25
-excerpt: "I hope this will be the first post of many. Riding across white villages in Cádiz is, I think, one of the best sensation ever. I've created this part of my blog in order to try expressing those emotions"
+excerpt: "I hope this will be the first post of many. Riding across white villages in Cádiz is, I think, one of the best sensation ever."
 tags:
 - motor
 crosspost_to_medium: false
@@ -30,7 +30,7 @@ hurones-puerto-galiz:
 First post about the routes I make with my 'little black girl'.
 For all those who are interested in locations I will try to link the names with webpages, so you can follow websites while you are reading this post.
 
-This one was about drive across San José del Valle.
+This one was about drive across San José del Valle until Puerto de Gáliz.
 
 # Planning the route
 
